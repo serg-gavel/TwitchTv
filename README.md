@@ -15,3 +15,6 @@ __Used technologies :__
 **JavaScript(ES5), jQuery**  
 **Twitch.tv API**  
 
+
+!Need to update Twich API
+
